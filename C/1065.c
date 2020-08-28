@@ -8,7 +8,7 @@ int digit(int dest){
     }
     return i;
 }
-//한수
+//한수 
 int Hansoo(int num){
     int cnt;
     // 세자리수 미만의 수에 대해
