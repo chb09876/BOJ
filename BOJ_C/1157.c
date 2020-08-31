@@ -12,7 +12,6 @@ int main(){
         }
         cnt[word[i]-'A']++;
     }
-
     for(int i=0;i<26;i++){
         if(cnt[i]>max){
             max=cnt[i];
